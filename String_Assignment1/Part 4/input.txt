@@ -1,0 +1,69 @@
+URL : http://www.dukelearntoprogram.com/course2/data/manylinks.html
+
+Computer Science Articles and items
+
+Turing's Universal Machine Voted Top British Innovation - Information Week March 25, 2013
+Why Software is eating the world - Wall Street Journal, Aug 20, 2011
+Robot "Mission Impossible" Wins Robot video prize - New Scientist - Aug 12, 2011
+Wierd Al Yankovic - song Bob is all palindromes - about Bob Dylan
+Java 1.6.0_21 company field changed from Sun to Oracle breaks applications
+Interview Kinect Adventures Aug 6, 2010
+Death of Google App Inventor - Aug 9, 2011
+Google App Inventor Saved - Now to MIT - Aug 16, 2011
+Microsoft Interns - News and Observer August 2009
+Software Engineering High School
+CS courses online
+Bloomberg Business Week - May 1, 2006 - article about Duke CS programming team
+Learnable Programming by Bret Victor September 2012
+Paul Pauca dreams up app to communicate with disabled son - Sept 18, 2012
+Dickens, Austen and Twain, Through a Digital Lens - New York Times, Jan 26, 2013
+Harvard's Flipped Discrete Math Course
+Physicists Eagerly try new teaching methods but then often drop them, study finds
+Freedom to Tinker
+Why Johnny can't program - by Neil Mcallister - Infoworld June 23, 2011
+A Most Profound Math Problem and here (pdf) The New Yorker - May 2, 2013 - about P vs NP problem
+New Standards Set for Federal Education Research - Education Week - May 7, 2013
+How Computer Analysis Uncovered J. K. Rowling's Secret Novel - PopSci, July 17, 2013
+Active learning increases student performance in science, engineering, and mathematics - paper in PNAS (2014)
+The 10 Algorithms That Dominate Our World - io9.com 5/22/14
+How Computer Science Solved the Puzzle of the 9/11 Memorial - BetaBeat, by Ben Popper, 5/9/2011
+Publishers withdraw more than 120 gibberish papers Nature - Feb 24, 2014
+Meet Cepheus, the virtually unbeatable poker-playing computer - washington post January 8, 2015
+XKCD - Depth First Search comic
+Dilbert - paying attention in class
+Dilbert - Breaking into groups
+CS is designing video games
+Advising - Doonesbury 8-14-2011
+Earthquake / twitter - xkcd
+With big data comes big responsibilities - Technology Review, Wed. Oct 5, 2011
+"Top-10-Programming-Languages"
+Comic with "Too many abbreviations"
+video about grad school in theoretical CS - asking prof for reference letter
+Inadvertent Algorithmic Cruelty
+STEM: The choice is yours - SAS video 2012 for MS students.
+Duke CS videos page
+code.org - videos to encourage young people to learn programming
+Thanksgiving Turduckenen-duckenen binary tree
+optimal math potatoes
+green bean matherole
+Borromean onion rings
+The Magic Shelf Concept Video - about Kiva robot system for bringing shelves to the picker
+Future Innovators: Kiva commercial - best buy ad
+Clip from Obama's Google+ hangout on Feb. 14, 2013 where he discusses the importance of CS in K-12
+Weird Al Yankovic - Bob song done all in palindromes
+How Walt Disney Cartoons are Made - from 1939
+Nora Denzel Keynote at Grace Hopper Celebration of Women in Computing 2012
+Women the programmers of tomorrow. - Miami Springs High School video about girls taking computing - June 10, 2013
+Duke Student Roger Zou profiled in Duke Today with his research
+Vint Cerf on Colbert (part 1) - Aug. 2014
+Vint Cerf on Colbert (part 2) - Aug. 2014
+"IKEA""ExperienceThePowerOfA-bookbook" - click here
+Theoretical Computer Science Cheat Sheet
+Barb Ericson Practice AP CS A exam questions - February 2014 (at Georgia Tech)
+Barb Ericson Practice AP CS A exam questions - August 23, 2012 (at college board site)
+Practice It - Aug 23, 2012
+Coder Dojo - programming collaboration for young people
+code.org
+play-i.com - Gender neutral robots (Steve Cooper in intro video)
+Engage CS Edu - NCWIT
+SIAM Math Matters posters

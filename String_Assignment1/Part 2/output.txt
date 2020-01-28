@@ -1,0 +1,4 @@
+ DNA string : AVBDSATGJBVIUVWIUFdUTAA
+ GENE : ATGJBVIUVWIUFDUTAA
+ DNA string : avuherhbatgjbvrjvrfvtaa
+ GENE : atgjbvrjvrfvtaa
