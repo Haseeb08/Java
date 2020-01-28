@@ -1,0 +1,5 @@
+perimeter = 16.0
+no of points 4
+avg per 4.0
+largest size 5.0
+largest X=4.0
