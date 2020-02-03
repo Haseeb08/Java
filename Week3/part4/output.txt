@@ -1,0 +1,2 @@
+Average temperature : 49.52333333333334
+Average temperature with Humidity more than 80 : 41.78666666666667
